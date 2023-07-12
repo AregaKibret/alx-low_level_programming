@@ -4,7 +4,7 @@
 		
 /**
 		
- * create_array - create array of size size and assign char c
+ * creat array create array of size size and assign char c
 		
  * @size: size of array
 		
